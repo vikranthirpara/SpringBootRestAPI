@@ -1,0 +1,1 @@
+Spring boot rest api to do basic crud operations on the service using postman.
